@@ -1,0 +1,21 @@
+
+table, th, td {
+  border: 1px solid black;
+}
+.table{
+  border-collapse: collapse;
+  margin-left:100px;
+  width:85%;
+  height: 500px;
+}
+.Product{
+  text-align: center;
+}
+@media screen and (max-width: 600px) {
+  .table {
+    width: 30%;
+  }
+  .Product{
+    text-align: startvcvvcv;
+  }
+}

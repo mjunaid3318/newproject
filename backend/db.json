@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+    "id": "P001",
+    "name": "Example Product",
+    "description": "This is an example product.",
+    "price": 19.99,
+    "category": "Electronics",
+    "inventory":"50"
+    },
+    {
+      "id":2,
+      "name":" Product",
+      "description":"The first product",
+      "price":19,
+      "category":"mobile",
+      "inventory":60
+
+    }
+    
+  ]
+ 
+  
+}
